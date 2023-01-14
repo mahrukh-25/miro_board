@@ -1,0 +1,47 @@
+{
+    "studentsInfo": [
+    {
+        "id":1,
+        "name":"Mahrukh Ahmad",
+        "fatherName":"Abrar Ahmad",
+        "dept":"Computer Science",
+        "description":"Future is Here,"
+      },
+      {"id":2,
+        "name":"Maham Ahmad",
+        "fatherName":"Abrar Ahmad",
+        "dept":"Statistics",
+        "description":"Let Our AI handle it,"
+        },
+        {
+          "id":3,
+        "name":"Javeria Ahmad",
+        "fatherName":"Irshad Ahmad",
+        "dept":"Math",
+        "description":"Do not regret your decisions,"
+        },
+        {
+          "id":4,
+        "name":"Hashir Ahmad",
+        "fatherName":"Irshad",
+        "dept":"Computer Science",
+        "description":"Be Brave ,"
+        },
+        {
+          "id":5,
+        "name":"Masha",
+        "fatherName":"Bear",
+        "dept":"Engish",
+        "description":"Expellimus,"
+    
+        },
+        {
+          "id":6,
+        "name":"Mona",
+        "fatherName":" Ahmad",
+        "dept":"Urdu",
+        "description":"Repello Muggletum,"
+        }
+
+]
+}
